@@ -1,0 +1,46 @@
+{
+  "personas": [
+    {
+      "nombrePersona": "Pepe Marcone",
+      "interesDeportes": 5,
+      "interesNoticias": 3,
+      "interesMusica": 1,
+      "interesCiencia": 4
+    },
+    {
+      "nombrePersona": "Juan Ferreyra",
+      "interesDeportes": 5,
+      "interesNoticias": 4,
+      "interesMusica": 1,
+      "interesCiencia": 1
+    },
+    {
+      "nombrePersona": "Maria Ferrario",
+      "interesDeportes": 5,
+      "interesNoticias": 5,
+      "interesMusica": 2,
+      "interesCiencia": 1
+    },
+    {
+      "nombrePersona": "Nicolas Carabajal",
+      "interesDeportes": 1,
+      "interesNoticias": 1,
+      "interesMusica": 5,
+      "interesCiencia": 5
+    },
+    {
+      "nombrePersona": "Gabriela Thompson",
+      "interesDeportes": 2,
+      "interesNoticias": 2,
+      "interesMusica": 5,
+      "interesCiencia": 3
+    },
+    {
+      "nombrePersona": "Javier Aguilera",
+      "interesDeportes": 1,
+      "interesNoticias": 1,
+      "interesMusica": 4,
+      "interesCiencia": 5
+    }
+  ]
+}
